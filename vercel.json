@@ -1,0 +1,7 @@
+json{
+  "functions": {
+    "api/odds.js": {
+      "runtime": "nodejs20.x"
+    }
+  }
+}
