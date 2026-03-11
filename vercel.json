@@ -1,5 +1,3 @@
-json
-
 {
   "functions": {
     "api/odds.js": {
